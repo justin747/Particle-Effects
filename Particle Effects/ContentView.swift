@@ -13,7 +13,7 @@ struct ContentView: View {
             Home()
                 .navigationTitle("Particle Effects")
         }
-        .preferredColorScheme(.dark)
+//        .preferredColorScheme(.light)
     }
 }
 
